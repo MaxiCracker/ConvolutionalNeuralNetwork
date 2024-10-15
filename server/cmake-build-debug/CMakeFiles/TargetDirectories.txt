@@ -1,0 +1,3 @@
+/home/max/Документы/CNN/ConvolutionalNeuralNetwork/server/cmake-build-debug/CMakeFiles/server.dir
+/home/max/Документы/CNN/ConvolutionalNeuralNetwork/server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/Документы/CNN/ConvolutionalNeuralNetwork/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
